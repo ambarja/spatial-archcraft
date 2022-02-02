@@ -42,6 +42,12 @@ sudo pacman -S visual-studio-code-bin
 ```
 yay -S brave-bin
 ```
+## Installation of exiftool
+
+```
+sudo pacman -S perl-image-exiftool
+```
+
 
 
 ### References 
