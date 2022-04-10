@@ -18,7 +18,10 @@ yay -S qgis-ltr
 ```
 sudo pacman -Syyu
 sudo pacman -S r rstudio-desktop
-sudo pacman -S gcc-fortran gdal proj geos units
+sudo pacman -S gcc-fortran gdal proj geos
+git clone https://aur.archlinux.org/udunits.git
+cd udunits
+makepkg -si
 ```
 
 ### **2. Instalation of rgee**
