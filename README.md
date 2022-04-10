@@ -1,6 +1,6 @@
 # r-spatial-archcraft
 
-### **1. Instalation of QGIS**
+### **1. QGIS Installation**
 #### option 1:
 ```
 sudo pacman -S qgis
@@ -11,13 +11,13 @@ sudo pacman -S qgis
 yay -S qgis-ltr 
 ```
 
-### **2. Instalations of r & rstudio** 
+### **2. Instalation of R & Rstudio** 
 
 ```
 sudo pacman -Syyu
 sudo pacman -S r rstudio-desktop
 ```
-### **3. Install r-spatial ecosystem**
+### **3. Installation of the r-spatial ecosystem**
 
 ```
 cd /tmp
@@ -30,23 +30,23 @@ cd udunits
 makepkg -si
 ```
 
-### **4. Instalation of blender**
+### **4. Blender installation**
 
 ```
 yay -S blender-git
 ```
 
-### **5. Instalation of vscode**
+### **5. VScode installation**
 
 ```
 sudo pacman -S visual-studio-code-bin
 ```
-### **6. Instalation of brave**
+### **6. Brave installation**
 
 ```
 yay -S brave-bin
 ```
-### **7. Installation of exiftool**
+### **7. Exiftool installation**
 
 ```
 sudo pacman -S perl-image-exiftool
