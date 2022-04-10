@@ -1,6 +1,13 @@
 # r-spatial-archcraft
 
 ### **1. Instalation of QGIS**
+#### option 1:
+
+```
+sudo pacman -S qgis
+```
+
+#### option 2:
 
 ```
 yay -S qgis-ltr 
@@ -11,10 +18,7 @@ yay -S qgis-ltr
 ```
 sudo pacman -Syyu
 sudo pacman -S r rstudio-desktop
-sudo pacman -S gcc-fortran gdal proj geos
-git clone https://aur.acrhlinux.org/udunits.git
-cd udunits
-makepkg -si
+sudo pacman -S gcc-fortran gdal proj geos units
 ```
 
 ### **2. Instalation of rgee**
