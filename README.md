@@ -1,7 +1,7 @@
 # **Archcraft installation**
 
 <p align="center">
- <video src="mp4/p1.mp4" width="600px" height="300px" controls>
+ <img src="mp4/p1.gif" width="600px" height="300px">
 </p>
 
 ## **Installation of the Spatial ecosystem in Archcraft**
