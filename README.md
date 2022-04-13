@@ -18,10 +18,21 @@ yay -S qgis-ltr
 ```
 
 #### DataPlotly Plugin
-
 ```
 sudo pacman -S python-pip
 pip install plotly
+```
+
+### SAGA installation
+
+```
+yay -S saga-gis
+```
+
+### GRASS GIS installation
+
+```
+yay -S grass-gis
 ```
 
 ### **2. Instalation of R & Rstudio** 
