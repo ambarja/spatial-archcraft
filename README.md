@@ -6,6 +6,14 @@
 
 ## **Installation of the Spatial ecosystem in Archcraft**
 
+### Update SO and Keys
+
+```
+sudo pacman Syyu
+sudo pacman-key --refresh-keys
+```
+
+
 ### **1. QGIS Installation**
 #### option 1:
 ```
