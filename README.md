@@ -58,6 +58,10 @@ cd v8-r
 makepkg -si
 ```
 ```
+sudo pacman -S tk
+```
+
+```
 sudo pacman -S gcc-fortran gdal proj geos
 ```
 ```
