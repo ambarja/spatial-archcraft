@@ -106,6 +106,12 @@ sudo pacman -S wsp-office
 sudo pacman -S knsip inkscape
 ```
 
+### **10. Install dependences of rjava**
+
+```
+yay -S jdk-openjdk jre-openjdk jdk-openjdk-headless jre-openjdk-headless openjdk-src openjdk-doc
+```
+
 ### References 
 
 - https://wiki.archcraft.io/docs/intro
