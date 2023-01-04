@@ -112,6 +112,13 @@ sudo pacman -S knsip inkscape
 yay -S jdk-openjdk jre-openjdk jdk-openjdk-headless jre-openjdk-headless openjdk-src openjdk-doc
 ```
 
+### **Wifi connection by console**
+
+```
+nmcli d wifi 
+nmcli d wifi connect NAME_OF_WIFI password PASSWORD 
+```
+
 ### References 
 
 - https://wiki.archcraft.io/docs/intro
