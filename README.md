@@ -119,6 +119,12 @@ nmcli d wifi
 nmcli d wifi connect NAME_OF_WIFI password PASSWORD 
 ```
 
+### **Paquetes binarios para Linux**
+
+```
+https://github.com/cran4linux/bspm
+```
+
 ### References 
 
 - https://wiki.archcraft.io/docs/intro
